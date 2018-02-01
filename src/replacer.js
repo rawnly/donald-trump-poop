@@ -8,6 +8,6 @@ $(function () {
 	$('*').each(function () {
 		var $this = $(this);
 		if (!$this.children().length)
-			$this.text($this.text().replace(matcher, '💩'));
+			$this.text($this.text().replace(matcher, '💩🎺'));
 	});
 })
