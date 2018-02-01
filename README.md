@@ -1,7 +1,9 @@
 # Donald Trump :poop:🎺
 > A chrome extension that replaces Donald Trumps name with :poop: emoji.
 
-[![install](https://user-images.githubusercontent.com/16429579/35694091-755c317c-0780-11e8-8e4f-15310defe9ad.png)](https://chrome.google.com/webstore/detail/donald-trump-poop/ihhgoohghbibomklbaebogoffiolfjne)
+<a href="https://chrome.google.com/webstore/detail/donald-trump-poop/ihhgoohghbibomklbaebogoffiolfjne">
+	<img src="https://user-images.githubusercontent.com/16429579/35694091-755c317c-0780-11e8-8e4f-15310defe9ad.png" width="150"/>
+</a>
 
 ![screenshot](https://user-images.githubusercontent.com/16429579/35693294-0de703ac-077e-11e8-89b2-216001abc3bf.png)
 
