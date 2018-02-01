@@ -1,7 +1,7 @@
 {
   "name": "Donald Trump Poop",
   "short_name": "Donald Poop",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "A chrome extension that replaces Donald Trumps name with 💩🎺 emojis.",
   "homepage_url": "http://github.com/rawnly/donald-trump-shit",
