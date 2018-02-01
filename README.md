@@ -5,9 +5,9 @@
 
 ## Why
 I was scrolling my Twitter feed when I saw a tweet from [@fiveideasaday][5ideas] that said:
-> "A chrome extension that replaces Donald Trumps face with :poop:🎺 emojis."
+> "A chrome extension that replaces Donald Trumps face with :poop: emojis."
 
-So i thought: "Maybe I can replace the name of Trump with the :poop: emoji" and that's it!
+So i thought: "Maybe I can replace the name of Trump with the :poop:🎺 emoji" and that's it!
 
 ## Related
 - [Amazon IVA 4](iva4) - Amazon prices with IVA tax at 4% (for people with handicap)
