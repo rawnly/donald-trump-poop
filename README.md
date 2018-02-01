@@ -13,15 +13,15 @@ So i thought: "Maybe I can replace the name of Trump with the :poop: emoji" and 
 - [Amazon IVA 4](iva4) - Amazon prices with IVA tax at 4% (for people with handicap)
 
 
-<center>
+<p align="center">
     <br/> <br/>
 	Inspired by <b><a href="https://twitter.com/fiveideasaday" target="_blank">@fiveideasaday</a></b>
-</center>
+</p>
 <br/>
 <hr>
-<center>
+<p align="center">
 	<a target="_blank" href="https://twitter.com/rawnlydev">Twitter</a> • <a target="_blank" href="https://instagram.com/fede.vitale">Instagram</a>  • <a target="_blank" href="https://github.com/rawnly">GitHub</a> 
-</center>
+</p>
 
 
 [5ideas]: https://twitter.com/fiveideasaday
