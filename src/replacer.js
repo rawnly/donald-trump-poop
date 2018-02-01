@@ -1,5 +1,5 @@
 $(function () {
-	const matcher = /([dD]onald\s{1,2}[tT]rump|[dD]onald\s{1,2}[jJ](\.|)\s{1,2}[tT]rump)/g;
+	const matcher = /([dD]onald\s{1,2}[tT]rump|[dD]onald\s{1,2}[jJ](ohn|)(\.|)\s{1,2}[tT]rump)/g;
 	let dts_debug = false;
 
 	if (dts_debug)
