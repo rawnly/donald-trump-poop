@@ -1,11 +1,11 @@
-# Donald Trump :poop:
+# Donald Trump :poop:🎺
 > A chrome extension that replaces Donald Trumps name with :poop: emoji.
 
 ![screenshot](https://user-images.githubusercontent.com/16429579/35693294-0de703ac-077e-11e8-89b2-216001abc3bf.png)
 
 ## Why
 I was scrolling my Twitter feed when I saw a tweet from [@fiveideasaday][5ideas] that said:
-> "A chrome extension that replaces Donald Trumps face with :poop: emoji."
+> "A chrome extension that replaces Donald Trumps face with :poop:🎺 emojis."
 
 So i thought: "Maybe I can replace the name of Trump with the :poop: emoji" and that's it!
 
